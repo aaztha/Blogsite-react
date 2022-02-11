@@ -1,0 +1,142 @@
+body {
+    font-size: 16px;
+    background-color: #000000;
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header { 
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    color: white;
+}
+
+footer { 
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    color:white;
+    padding: 2em;
+}
+
+h1 {
+    font-size: 1.2em;
+    font-family: 'Roboto', sans-serif;
+    color:white;
+    margin:0.5em;
+  }
+
+  h2{
+    color: yellow;
+    margin: 0.5em;
+  }
+
+h3 {
+    font-size: 1.2em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    margin-bottom:0.3em;
+   
+}
+
+h4{
+    font-size: 1em;
+    font-family: 'Roboto', sans-serif;
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    width: 18em; 
+    margin-bottom:0.8em;
+   
+}
+
+/*starting navbar */
+
+.home-header {
+    text-align: center;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #000000;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+  }
+  
+  .home-header h2 {
+    color: rgb(250, 250, 250);
+    font-size: 2rem;
+
+  }
+
+  .home-header ul{
+    margin-top: 7px;
+  }
+  
+  .home-header h1 {
+    color: rgb(255, 255, 255);
+    font-size: 3rem;
+  }
+
+  a {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    padding: 0.5rem;
+    font-size:larger;
+  }
+  
+  .home-header .links {
+    display: grid;
+    padding: 0px;
+    grid-template-columns: repeat(3, 1fr);
+  }
+  
+  .home-header .links > li {
+    list-style: none;
+    display: inline-block;
+    margin: 10px;
+    align-items: center;
+  }
+  
+  a:hover {
+    background-color: rgba(231, 228, 21, 0.623);
+    font-size: large;
+    transition: all 0.4s ease;
+    cursor: pointer;
+  }
+
+  
+  @media screen and (max-width: 867px) {
+    .home-header .links {
+      grid-template-columns: 1fr 1fr;
+    }
+  
+  }
+  
+  @media screen and (max-width: 550px) {
+    .home-header .links {
+      grid-template-columns: 1fr;
+    }
+  }
+  
+  @media (min-width: 0px) and (max-width: 377px) {
+    .home-header {
+      flex-direction: column;
+      justify-content: center;
+      align-content: center;
+    }
+
+    h4{
+      white-space: nowrap; 
+      overflow: hidden;
+      text-overflow: ellipsis; 
+      width: 15em; 
+    }
+  }
+
+  /*end navbar*/

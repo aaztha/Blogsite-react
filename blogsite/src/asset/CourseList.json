@@ -1,0 +1,96 @@
+{
+    "section":[{
+        "sectionName" : "Most Popular AI Blogs",
+        "courseList":[
+            {
+            "name": " OpenAI",
+            "description":"OpenAI comes from industry experts who want to bring AI to the masses. ",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwwl27WTX2S1r1EOyAO3bOxnVChbTAnKJcjw&usqp=CAU"
+        },
+        {
+            "name": "Distill",
+            "description":"Distill concentrates on making ML and AI more accessible for readers.",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUt-9NVOqJe-ykXoBhHvifkF6CnJNzjkFf_g&usqp=CAU"
+        },
+        {
+            "name": "Machine Learning is Fun ",
+            "description":"Machine Learning is Fun is a valuable, introductory blog.",
+            "img":"https://image.freepik.com/free-photo/medium-shot-man-wearing-vr-glasses_23-2149126949.jpg?w=1060"
+        },
+        {
+            "name": " The BAIR Blog",
+            "description":"The artificial intelligence research department at UC Berkeley created this blog.",
+            "img":"https://image.freepik.com/free-photo/ai-chip-intelligence-technology-deep-learning_53876-143122.jpg?w=740"
+        },
+        {
+            "name": "FastML",
+            "description":"FastML tackles interesting topics in machine learning with entertaining, easy to consume posts.",
+            "img":"https://image.freepik.com/free-photo/businesswoman-networking-using-digital-devices_53876-101875.jpg?w=1060"
+        },
+        {
+            "name": "AI at Google",
+            "description":"Google helped revolutionize machine learning, so to see their level of ML research isn’t surprising.",
+            "img":"https://image.freepik.com/free-vector/artificial-intelligence-concept-illustration_114360-855.jpg?w=740"
+        }
+    ]
+},
+{
+    "sectionName" : "#Trending",
+    "courseList":[
+        {
+            "name": " OpenAI",
+            "description":"OpenAI comes from industry experts who want to bring AI to the masses. ",
+            "img":"https://image.freepik.com/free-photo/man-wearing-smart-glasses-touching-virtual-screen-futuristic-technology-digital-remix_53876-104247.jpg?w=996"
+        },
+        {
+            "name": "Distill",
+            "description":"Distill concentrates on making ML and AI more accessible for readers.",
+            "img":"https://image.freepik.com/free-photo/businesswoman-networking-using-digital-devices_53876-101875.jpg?w=1060"
+        },
+        {
+            "name": "Machine Learning is Fun ",
+            "description":"Machine Learning is Fun is a valuable, introductory blog.",
+            "img":"https://image.freepik.com/free-photo/futuristic-smart-city-with-5g-global-network-technology_53876-98438.jpg?w=996"
+        },
+        {
+            "name": " The BAIR Blog",
+            "description":"The artificial intelligence research department at UC Berkeley created this blog.",
+            "img":"https://image.freepik.com/free-vector/artificial-intelligence-concept-illustration_114360-855.jpg?w=740"
+        },
+        {
+            "name": "FastML",
+            "description":"FastML tackles interesting topics in machine learning with entertaining, easy to consume posts.",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwwl27WTX2S1r1EOyAO3bOxnVChbTAnKJcjw&usqp=CAU"
+        },
+        {
+            "name": "AI at Google",
+            "description":"Google helped revolutionize machine learning, so to see their level of ML research isn’t surprising.",
+            "img":"https://image.freepik.com/free-vector/artificial-intelligence-concept-illustration_114360-855.jpg?w=740"
+        }
+]
+},
+    {
+        
+            "sectionName" : "Favourite Stories",
+            "courseList":[
+                {
+                    "name": " OpenAI",
+                    "description":"OpenAI comes from industry experts who want to bring AI to the masses. ",
+                    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwwl27WTX2S1r1EOyAO3bOxnVChbTAnKJcjw&usqp=CAU"
+                },
+                {
+                    "name": "Distill",
+                    "description":"Distill concentrates on making ML and AI more accessible for readers.",
+                    "img":"https://image.freepik.com/free-photo/businesswoman-networking-using-digital-devices_53876-101875.jpg?w=1060"
+                },
+                {
+                    "name": "Machine Learning is Fun ",
+                    "description":"Machine Learning is Fun is a valuable, introductory blog.",
+                    "img":"https://image.freepik.com/free-vector/artificial-intelligence-concept-illustration_114360-855.jpg?w=740"
+                }               
+        ]
+    }
+
+]
+}
+    
